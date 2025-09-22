@@ -1,0 +1,26 @@
+[
+  {
+    "name": "locket",
+    "type": 1,
+    "bundleID": "com.example.locket",
+    "version": "1.0.0",
+    "versionDate": "2025-09-22",
+    "fullDate": "20250922124226",
+    "size": 12345678,
+    "downloadURL": "https://example.com/locket.ipa",
+    "iconURL": "https://example.com/locket.png",
+    "localizedDescription": "Injected build"
+  },
+  {
+    "name": "youtube",
+    "type": 1,
+    "bundleID": "com.example.youtube",
+    "version": "1.0.0",
+    "versionDate": "2025-09-22",
+    "fullDate": "20250922124226",
+    "size": 12345678,
+    "downloadURL": "https://example.com/youtube.ipa",
+    "iconURL": "https://example.com/youtube.png",
+    "localizedDescription": "Injected build"
+  }
+]
