@@ -1,0 +1,50 @@
+{
+  "name": "Custom Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "Roblox",
+      "bundleID": "com.gloop.deltamobile",
+      "developerName": "",
+      "version": "2.686.866",
+      "versionDate": "2025-08-23",
+      "size": 119944660,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Roblox_2.686.866_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
+      "localizedDescription": "Injected with Mods"
+    },
+    {
+      "name": "Roblox",
+      "bundleID": "com.gloop.deltamobile",
+      "developerName": "",
+      "version": "2.673.712",
+      "versionDate": "2025-06-17",
+      "size": 166332033,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/Roblox_2.673.712_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
+      "localizedDescription": "Injected with Mods"
+    },
+    {
+      "name": "Roblox",
+      "bundleID": "com.gloop.deltamobile",
+      "developerName": "",
+      "version": "2.670.714",
+      "versionDate": "2025-05-19",
+      "size": 166308783,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Roblox_2.670.714_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
+      "localizedDescription": "Injected with Mods"
+    },
+    {
+      "name": "Roblox",
+      "bundleID": "com.gloop.deltamobile",
+      "developerName": "",
+      "version": "2.670.714",
+      "versionDate": "2025-05-10",
+      "size": 166331985,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Roblox_2.670.714_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
+      "localizedDescription": "Injected with Mods"
+    }
+  ]
+}
