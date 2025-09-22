@@ -1,0 +1,127 @@
+{
+  "name": "Custom Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.78",
+      "versionDate": "2025-09-11",
+      "size": 89442529,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2025/Spotify_9.0.78_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.72",
+      "versionDate": "2025-08-28",
+      "size": 86462786,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/EeveeSpotify_9.0.72_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.68",
+      "versionDate": "2025-08-14",
+      "size": 84193298,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/EeveeSpotify_9.0.68_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.42",
+      "versionDate": "2025-05-18",
+      "size": 81876826,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2025/EeveeSpotify_9.0.42_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Spotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.40",
+      "versionDate": "2025-05-03",
+      "size": 81629077,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Spotify_9.0.40_Eevee_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with Eevee"
+    },
+    {
+      "name": "Spotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.30",
+      "versionDate": "2025-03-28",
+      "size": 80481153,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/Spotify_9.0.30_EeveeSpotify_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with EeveeSpotify"
+    },
+    {
+      "name": "Eeveespotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.22",
+      "versionDate": "2025-03-05",
+      "size": 80414123,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Eeveespotify_9.0.22_EeveeSpotify_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with EeveeSpotify"
+    },
+    {
+      "name": "Eeveespotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.16",
+      "versionDate": "2025-02-08",
+      "size": 79682168,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Eeveespotify_9.0.16_Eevee_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with Eevee"
+    },
+    {
+      "name": "Eeveespotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.14",
+      "versionDate": "2025-02-02",
+      "size": 79219841,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Eeveespotify_9.0.14_Eevee_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with Eevee"
+    },
+    {
+      "name": "Spotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "9.0.0",
+      "versionDate": "2024-12-14",
+      "size": 80444061,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2024/Spotify_9.0.0_Eevee_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with Eevee"
+    },
+    {
+      "name": "Spotify",
+      "bundleID": "com.spotify.client",
+      "developerName": "",
+      "version": "8.9.96",
+      "versionDate": "2024-12-11",
+      "size": 83513957,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2024/Spotify_8.9.96_EeveeSpotify_5.8.2_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+      "localizedDescription": "Injected with EeveeSpotify 5.8.2"
+    }
+  ]
+}
