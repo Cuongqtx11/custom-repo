@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Facebook",
+    "type": 1,
+    "bundleID": "com.facebook.Facebook",
+    "bundleIdentifier": "com.facebook.Facebook",
+    "version": "530.0.0",
+    "versionDate": "2025-09-22",
+    "fullDate": "",
+    "size": 161259978,
+    "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2025/Facebook_530.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+    "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+    "localizedDescription": "Injected with Premium"
+  }
+]
