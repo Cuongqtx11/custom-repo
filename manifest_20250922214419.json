@@ -1,0 +1,83 @@
+{
+  "name": "Custom Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "WhatsApp",
+      "bundleID": "net.whatsapp.WhatsApp",
+      "developerName": "",
+      "version": "25.12.73",
+      "versionDate": "2025-05-05",
+      "size": 119365705,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/WhatsApp_25.12.73_Watusi_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+      "localizedDescription": "Injected with Watusi"
+    },
+    {
+      "name": "WhatsApp",
+      "bundleID": "net.whatsapp.WhatsApp",
+      "developerName": "",
+      "version": "25.13.77",
+      "versionDate": "2025-04-29",
+      "size": 116995262,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/WhatsApp_25.13.77_Watusi_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+      "localizedDescription": "Injected with Watusi"
+    },
+    {
+      "name": "Whatsapp",
+      "bundleID": "net.whatsapp.WhatsApp",
+      "developerName": "",
+      "version": "25.8.74",
+      "versionDate": "2025-03-28",
+      "size": 116486011,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2025/Whatsapp_25.8.74_Watusi_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+      "localizedDescription": "Injected with Watusi"
+    },
+    {
+      "name": "whatsapp",
+      "bundleID": "net.whatsapp.WhatsApp",
+      "developerName": "",
+      "version": "25.3.80",
+      "versionDate": "2025-03-05",
+      "size": 118336671,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/whatsapp_25.3.80_Watusi_1.2.58_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+      "localizedDescription": "Injected with Watusi 1.2.58"
+    },
+    {
+      "name": "WhatsApp",
+      "bundleID": "net.whatsapp.WhatsApp",
+      "developerName": "",
+      "version": "25.2.82",
+      "versionDate": "2025-02-07",
+      "size": 113592292,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-02-2025/WhatsApp_25.2.82_Watusi_OnlineNotify_Stalky_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+      "localizedDescription": "Injected with Watusi OnlineNotify Stalky"
+    },
+    {
+      "name": "WhatsApp",
+      "bundleID": "net.whatsapp.WhatsApp",
+      "developerName": "",
+      "version": "24.25.5",
+      "versionDate": "2024-12-12",
+      "size": 118002179,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-12-2024/WhatsApp_24.25.5_Watusi_1.2.44_Stalky_OnlineNotify_ContactSync_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+      "localizedDescription": "Injected with Watusi 1.2.44 Stalky OnlineNotify ContactSync"
+    },
+    {
+      "name": "WhatsAppFreeze",
+      "bundleID": "",
+      "developerName": "",
+      "version": "1.0",
+      "versionDate": "2024-12-06",
+      "size": 8650464,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/WhatsAppFreeze_1.0_%40thisismanpreets_apptesters.org.dylib",
+      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+      "localizedDescription": "WhatsAppFreeze"
+    }
+  ]
+}
