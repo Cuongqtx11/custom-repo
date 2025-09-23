@@ -1,0 +1,39 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "Alpenglow",
+      "bundleID": "com.andydev.alpenglow",
+      "developerName": "",
+      "version": "10.2.7",
+      "versionDate": "2025-07-04",
+      "size": 66383068,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Alpenglow_10.2.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andydev.alpenglow.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "ShoppingList",
+      "bundleID": "jp.tyabaken.kaimono",
+      "developerName": "",
+      "version": "4.0.0",
+      "versionDate": "2025-06-23",
+      "size": 12130600,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/ShoppingList_4.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.tyabaken.kaimono.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "LongleafValley",
+      "bundleID": "com.treespleasegames.merge1",
+      "developerName": "",
+      "version": "1.35.26",
+      "versionDate": "2025-06-02",
+      "size": 241102400,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/LongleafValley_1.35.26_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.treespleasegames.merge1.png",
+      "localizedDescription": "Injected with Unlocked All Functions"
+    }
+  ]
+}
