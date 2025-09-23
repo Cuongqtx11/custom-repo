@@ -1,0 +1,50 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "Photomath",
+      "bundleID": "com.microblink.PhotoMath",
+      "developerName": "",
+      "version": "8.44.0",
+      "versionDate": "2025-09-11",
+      "size": 18036205,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2025/Photomath_8.44.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png",
+      "localizedDescription": "Injected with Subscription Unlocked"
+    },
+    {
+      "name": "Photomath",
+      "bundleID": "com.microblink.PhotoMath",
+      "developerName": "",
+      "version": "8.43.0",
+      "versionDate": "2025-06-03",
+      "size": 17397667,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2025/Photomath_8.43.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png",
+      "localizedDescription": "Injected with Subscription Unlocked"
+    },
+    {
+      "name": "TomboftheMask",
+      "bundleID": "com.happymagenta.fromcore",
+      "developerName": "",
+      "version": "1.20.2",
+      "versionDate": "2025-05-06",
+      "size": 71512024,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/TomboftheMask_1.20.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.happymagenta.fromcore.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Photomath",
+      "bundleID": "com.microblink.PhotoMath",
+      "developerName": "",
+      "version": "8.41.0",
+      "versionDate": "2025-01-25",
+      "size": 16807115,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/Photomath_8.41.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png",
+      "localizedDescription": "Injected with Plus"
+    }
+  ]
+}
