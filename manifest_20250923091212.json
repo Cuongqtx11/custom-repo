@@ -1,0 +1,28 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "SurvivalArena",
+      "bundleID": "tower.defense.survival.arena",
+      "developerName": "",
+      "version": "1.7.10",
+      "versionDate": "2025-06-24",
+      "size": 132096479,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/SurvivalArena_1.7.10_noads_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tower.defense.survival.arena.png",
+      "localizedDescription": "Injected with noads"
+    },
+    {
+      "name": "PolygunArena",
+      "bundleID": "com.polygon.arena",
+      "developerName": "",
+      "version": "0.9701",
+      "versionDate": "2025-06-02",
+      "size": 437409268,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PolygunArena_0.9701_UnlimitedAmmo_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polygon.arena.png",
+      "localizedDescription": "Injected with UnlimitedAmmo"
+    }
+  ]
+}
