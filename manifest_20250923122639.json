@@ -1,0 +1,61 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "CollaNote",
+      "bundleID": "net.quochuywdm.collanote496",
+      "developerName": "",
+      "version": "3.1.8",
+      "versionDate": "2025-08-07",
+      "size": 186748386,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/CollaNote_3.1.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "CollaNote",
+      "bundleID": "net.quochuywdm.collanote496",
+      "developerName": "",
+      "version": "3.1.7",
+      "versionDate": "2025-07-17",
+      "size": 133040810,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/CollaNote_3.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "CollaNote",
+      "bundleID": "net.quochuywdm.collanote496",
+      "developerName": "",
+      "version": "3.1.6",
+      "versionDate": "2025-07-16",
+      "size": 133040359,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/CollaNote_3.1.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "CollaNote",
+      "bundleID": "net.quochuywdm.collanote496",
+      "developerName": "",
+      "version": "3.1.5",
+      "versionDate": "2025-06-02",
+      "size": 128408718,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/CollaNote_3.1.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "Collanote",
+      "bundleID": "net.quochuywdm.collanote496",
+      "developerName": "",
+      "version": "3.1.0",
+      "versionDate": "2024-12-09",
+      "size": 125975881,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-12-2024/Collanote_3.1.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "localizedDescription": "Injected with Pro"
+    }
+  ]
+}
