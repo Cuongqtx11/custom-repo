@@ -1,0 +1,83 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "Anime",
+      "bundleID": "com.wallpapershub.anime",
+      "developerName": "",
+      "version": "4.0",
+      "versionDate": "2025-09-14",
+      "size": 114900323,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2025/Anime_4.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "Anime",
+      "bundleID": "com.wallpapershub.anime",
+      "developerName": "",
+      "version": "3.8.7",
+      "versionDate": "2025-08-28",
+      "size": 112378000,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Anime_3.8.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "hianime",
+      "bundleID": "com.pyanime.anime.search",
+      "developerName": "",
+      "version": "1.0.18",
+      "versionDate": "2025-08-17",
+      "size": 19060461,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2025/hianime_1.0.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pyanime.anime.search.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "Anime",
+      "bundleID": "com.wallpapershub.anime",
+      "developerName": "",
+      "version": "3.8.6",
+      "versionDate": "2025-07-29",
+      "size": 112343056,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Anime_3.8.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "Anime",
+      "bundleID": "com.wallpapershub.anime",
+      "developerName": "",
+      "version": "3.8.4",
+      "versionDate": "2025-05-20",
+      "size": 118390107,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Anime_3.8.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "Anime",
+      "bundleID": "com.wallpapershub.anime",
+      "developerName": "",
+      "version": "3.8.3",
+      "versionDate": "2025-05-06",
+      "size": 123043375,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Anime_3.8.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
+      "localizedDescription": "Injected with Pro"
+    },
+    {
+      "name": "Anime",
+      "bundleID": "com.wallpapershub.anime",
+      "developerName": "",
+      "version": "3.8.1",
+      "versionDate": "2025-03-05",
+      "size": 127284788,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Anime_3.8.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
+      "localizedDescription": "Injected with Pro"
+    }
+  ]
+}
