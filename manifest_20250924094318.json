@@ -1,0 +1,160 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "10.2",
+      "versionDate": "2025-08-28",
+      "size": 62979035,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "10.1",
+      "versionDate": "2025-08-20",
+      "size": 62899789,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2025/Quizlet_10.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "10.0",
+      "versionDate": "2025-08-14",
+      "size": 62689930,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Quizlet_10.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.43.1",
+      "versionDate": "2025-08-07",
+      "size": 62575212,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Quizlet_9.43.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.41",
+      "versionDate": "2025-07-23",
+      "size": 60961940,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Quizlet_9.41_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.40",
+      "versionDate": "2025-07-17",
+      "size": 59992546,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Quizlet_9.40_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.39",
+      "versionDate": "2025-07-09",
+      "size": 61147182,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Quizlet_9.39_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.35",
+      "versionDate": "2025-06-11",
+      "size": 60653614,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/Quizlet_9.35_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.32",
+      "versionDate": "2025-05-13",
+      "size": 59112489,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/Quizlet_9.32_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.29.1",
+      "versionDate": "2025-04-29",
+      "size": 58542743,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Quizlet_9.29.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.20",
+      "versionDate": "2025-02-12",
+      "size": 55392761,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/Quizlet_9.20_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.19",
+      "versionDate": "2025-02-08",
+      "size": 55182992,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Quizlet_9.19_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.18",
+      "versionDate": "2025-02-02",
+      "size": 55309964,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Quizlet_9.18_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "Quizlet",
+      "bundleID": "com.quizlet.quizlet",
+      "developerName": "",
+      "version": "9.14",
+      "versionDate": "2024-12-11",
+      "size": 55400111,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2024/Quizlet_9.14_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "localizedDescription": "Injected with Plus"
+    }
+  ]
+}
