@@ -1,7 +1,18 @@
 {
-  "name": "Custom Unlockipa Mini",
+  "name": "Repo Unlockipa Mini",
   "identifier": "custom.repo",
   "apps": [
+    {
+      "name": "Locket",
+      "bundleID": "com.locket.Locket",
+      "developerName": "",
+      "version": "2.14.1",
+      "versionDate": "2025-09-26",
+      "size": 140468762,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/Locket_2.14.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+      "localizedDescription": "Injected with Gold"
+    },
     {
       "name": "Locket",
       "bundleID": "com.locket.Locket",
