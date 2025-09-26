@@ -3,6 +3,17 @@
   "identifier": "custom.repo",
   "apps": [
     {
+      "name": "YouTubeOLED",
+      "bundleID": "com.google.ios.youtube",
+      "developerName": "",
+      "version": "20.38.4",
+      "versionDate": "2025-09-24",
+      "size": 126935496,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/YouTubeOLED_20.38.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
       "name": "YouTubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
