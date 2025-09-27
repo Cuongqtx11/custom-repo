@@ -1,0 +1,226 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "532.0.0",
+      "versionDate": "2025-09-25",
+      "size": 160550456,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2025/Facebook_532.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "530.0.0",
+      "versionDate": "2025-09-13",
+      "size": 161259978,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2025/Facebook_530.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "529.1.0",
+      "versionDate": "2025-09-06",
+      "size": 159565062,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2025/Facebook_529.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "529.0.0",
+      "versionDate": "2025-09-04",
+      "size": 159712381,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2025/Facebook_529.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "528.0.0",
+      "versionDate": "2025-08-28",
+      "size": 159128224,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Facebook_528.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "527.0.0",
+      "versionDate": "2025-08-22",
+      "size": 153992056,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2025/Facebook_527.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "526.0.0",
+      "versionDate": "2025-08-14",
+      "size": 154213536,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Facebook_526.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "525.0.0",
+      "versionDate": "2025-08-08",
+      "size": 153440241,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/Facebook_525.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "524.1.0",
+      "versionDate": "2025-08-02",
+      "size": 153389235,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2025/Facebook_524.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "524.0.0",
+      "versionDate": "2025-07-31",
+      "size": 155894875,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/Facebook_524.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "523.0.0",
+      "versionDate": "2025-07-24",
+      "size": 157052659,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/Facebook_523.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "522.0.0",
+      "versionDate": "2025-07-17",
+      "size": 156872333,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Facebook_522.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "521.0.0",
+      "versionDate": "2025-07-09",
+      "size": 170103765,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Facebook_521.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "517.0.0",
+      "versionDate": "2025-06-13",
+      "size": 165767697,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/Facebook_517.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "512.0.0",
+      "versionDate": "2025-05-09",
+      "size": 167707493,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/Facebook_512.0.0_Wolf_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Wolf"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "511.0.0",
+      "versionDate": "2025-04-29",
+      "size": 172064031,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Facebook_511.0.0_Wolf_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Wolf"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "507.0.0",
+      "versionDate": "2025-04-07",
+      "size": 168682189,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/Facebook_507.0.0_Wolf_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Wolf"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "498.0.0",
+      "versionDate": "2025-02-02",
+      "size": 162989811,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Facebook_498.0.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Wolf 2.1"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "493.0.0",
+      "versionDate": "2024-12-13",
+      "size": 162911886,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2024/Facebook_493.0.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Wolf 2.1"
+    },
+    {
+      "name": "Facebook",
+      "bundleID": "com.facebook.Facebook",
+      "developerName": "",
+      "version": "492.0.0",
+      "versionDate": "2024-12-05",
+      "size": 162778384,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Facebook_492.0.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "localizedDescription": "Injected with Wolf 2.1"
+    }
+  ]
+}
