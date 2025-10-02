@@ -1,0 +1,28 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "RiseofBerk",
+      "bundleID": "com.ludia.dragons",
+      "developerName": "",
+      "version": "1.96.7",
+      "versionDate": "2025-05-28",
+      "size": 626493745,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/RiseofBerk_1.96.7_FreezeCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ludia.dragons.png",
+      "localizedDescription": "Injected with FreezeCurrencies"
+    },
+    {
+      "name": "TakeOffBoltsScrewPuzzle",
+      "bundleID": "ios.takeoffbolts.screw.puzzle",
+      "developerName": "",
+      "version": "1.2.5",
+      "versionDate": "2025-05-19",
+      "size": 177851074,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/TakeOffBoltsScrewPuzzle_1.2.5_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ios.takeoffbolts.screw.puzzle.png",
+      "localizedDescription": "Injected with Mods"
+    }
+  ]
+}
