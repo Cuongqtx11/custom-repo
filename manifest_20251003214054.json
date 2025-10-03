@@ -6,6 +6,28 @@
       "name": "YouTubeOLED",
       "bundleID": "com.google.ios.youtube",
       "developerName": "",
+      "version": "20.39.6",
+      "versionDate": "2025-10-02",
+      "size": 129712392,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2025/YouTubeOLED_20.39.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "YouTubeOLED",
+      "bundleID": "com.google.ios.youtube",
+      "developerName": "",
+      "version": "20.39.5",
+      "versionDate": "2025-10-01",
+      "size": 129712607,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/YouTubeOLED_20.39.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "YouTubeOLED",
+      "bundleID": "com.google.ios.youtube",
+      "developerName": "",
       "version": "20.39.4",
       "versionDate": "2025-09-30",
       "size": 127077955,
