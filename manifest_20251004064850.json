@@ -1,0 +1,17 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "AndalusiDesign",
+      "bundleID": "com.AppChief.ArabicArt",
+      "developerName": "",
+      "version": "8.5.1",
+      "versionDate": "2025-05-01",
+      "size": 152643066,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/AndalusiDesign_8.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+      "localizedDescription": "Injected with Pro"
+    }
+  ]
+}
