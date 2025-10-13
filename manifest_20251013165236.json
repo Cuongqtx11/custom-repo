@@ -1,0 +1,17 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "AllFLEXing",
+      "bundleID": "",
+      "developerName": "",
+      "version": "1.0",
+      "versionDate": "2024-12-06",
+      "size": 3481184,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/AllFLEXing_1.0_CompiledEverythingTogether_%40thisismanpreets_apptesters.org.dylib",
+      "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+      "localizedDescription": "AllFLEXing"
+    }
+  ]
+}
