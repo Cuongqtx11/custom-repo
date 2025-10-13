@@ -1,0 +1,116 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.15",
+      "versionDate": "2025-09-04",
+      "size": 83638646,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2025/Swiftgram_11.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.14",
+      "versionDate": "2025-08-07",
+      "size": 83128635,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Swiftgram_11.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.13",
+      "versionDate": "2025-07-14",
+      "size": 82623502,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Swiftgram_11.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.12.1",
+      "versionDate": "2025-07-01",
+      "size": 93704314,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Swiftgram_11.12.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.12",
+      "versionDate": "2025-06-20",
+      "size": 95248683,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Swiftgram_11.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.11.2",
+      "versionDate": "2025-05-22",
+      "size": 94697674,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Swiftgram_11.11.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.11.1",
+      "versionDate": "2025-05-20",
+      "size": 94689823,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Swiftgram_11.11.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.11",
+      "versionDate": "2025-05-10",
+      "size": 93054237,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Swiftgram_11.11_TGExtra_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with TGExtra"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.10.1",
+      "versionDate": "2025-05-09",
+      "size": 72177213,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/Swiftgram_11.10.1_TGExtra_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with TGExtra"
+    },
+    {
+      "name": "Swiftgram",
+      "bundleID": "app.swiftgram.ios",
+      "developerName": "",
+      "version": "11.10",
+      "versionDate": "2025-05-03",
+      "size": 93699863,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Swiftgram_11.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "localizedDescription": "Injected with Premium"
+    }
+  ]
+}
