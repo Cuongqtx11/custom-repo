@@ -3,36 +3,14 @@
   "identifier": "custom.repo",
   "apps": [
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
+      "name": "YouTubeOLED",
+      "bundleID": "com.google.ios.youtube",
       "developerName": "",
-      "version": "534.1.0",
-      "versionDate": "2025-10-11",
-      "size": 165169055,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-10-2025/Facebook_534.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Messenger",
-      "bundleID": "com.facebook.Messenger",
-      "developerName": "",
-      "version": "528.0.0",
-      "versionDate": "2025-10-08",
-      "size": 64040447,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/Messenger_528.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "534.0.0",
-      "versionDate": "2025-10-08",
-      "size": 161653658,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/Facebook_534.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+      "version": "20.41.4",
+      "versionDate": "2025-10-13",
+      "size": 130332916,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-10-2025/YouTubeOLED_20.41.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "localizedDescription": "Injected with Premium"
     },
     {
@@ -69,17 +47,6 @@
       "localizedDescription": "Injected with Premium"
     },
     {
-      "name": "Messenger",
-      "bundleID": "com.facebook.Messenger",
-      "developerName": "",
-      "version": "527.0.0",
-      "versionDate": "2025-10-01",
-      "size": 63860554,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/Messenger_527.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
       "name": "YouTubeOLED",
       "bundleID": "com.google.ios.youtube",
       "developerName": "",
@@ -88,17 +55,6 @@
       "size": 129712607,
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/YouTubeOLED_20.39.5_Premium_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "533.0.0",
-      "versionDate": "2025-09-30",
-      "size": 165069862,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/Facebook_533.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "localizedDescription": "Injected with Premium"
     },
     {
@@ -121,28 +77,6 @@
       "size": 96661992,
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/YouTubeMusic_8.39.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "532.0.0",
-      "versionDate": "2025-09-25",
-      "size": 160550456,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2025/Facebook_532.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Messenger",
-      "bundleID": "com.facebook.Messenger",
-      "developerName": "",
-      "version": "526.0.0",
-      "versionDate": "2025-09-24",
-      "size": 61735202,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Messenger_526.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
       "localizedDescription": "Injected with Premium"
     },
     {
@@ -179,17 +113,6 @@
       "localizedDescription": "Injected with Premium"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "530.0.0",
-      "versionDate": "2025-09-13",
-      "size": 161259978,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2025/Facebook_530.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
       "name": "YouTubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -198,17 +121,6 @@
       "size": 101402943,
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2025/YouTubeMusic_8.37.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Messenger",
-      "bundleID": "com.facebook.Messenger",
-      "developerName": "",
-      "version": "524.0.0",
-      "versionDate": "2025-09-12",
-      "size": 62005670,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2025/Messenger_524.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
       "localizedDescription": "Injected with Premium"
     },
     {
@@ -234,28 +146,6 @@
       "localizedDescription": "Injected with Premium"
     },
     {
-      "name": "Messenger",
-      "bundleID": "com.facebook.Messenger",
-      "developerName": "",
-      "version": "523.0.0",
-      "versionDate": "2025-09-07",
-      "size": 63284198,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2025/Messenger_523.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "529.1.0",
-      "versionDate": "2025-09-06",
-      "size": 159565062,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2025/Facebook_529.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
       "name": "YouTubeOLED",
       "bundleID": "com.google.ios.youtube",
       "developerName": "",
@@ -267,17 +157,6 @@
       "localizedDescription": "Injected with Premium"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "529.0.0",
-      "versionDate": "2025-09-04",
-      "size": 159712381,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2025/Facebook_529.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
       "name": "YouTubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -286,17 +165,6 @@
       "size": 97921422,
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2025/YouTubeMusic_8.35.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "528.0.0",
-      "versionDate": "2025-08-28",
-      "size": 159128224,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Facebook_528.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "localizedDescription": "Injected with Premium"
     },
     {
@@ -319,17 +187,6 @@
       "size": 128776932,
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2025/YouTubeOLED_20.34.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "527.0.0",
-      "versionDate": "2025-08-22",
-      "size": 153992056,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2025/Facebook_527.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "localizedDescription": "Injected with Premium"
     },
     {
@@ -366,17 +223,6 @@
       "localizedDescription": "Injected with Premium"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "526.0.0",
-      "versionDate": "2025-08-14",
-      "size": 154213536,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Facebook_526.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
       "name": "YouTubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -399,17 +245,6 @@
       "localizedDescription": "Injected with Premium"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "525.0.0",
-      "versionDate": "2025-08-08",
-      "size": 153440241,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/Facebook_525.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
       "name": "YouTubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -429,28 +264,6 @@
       "size": 126425274,
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/YouTubeOLED_20.31.5_Premium_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "524.1.0",
-      "versionDate": "2025-08-02",
-      "size": 153389235,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2025/Facebook_524.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "524.0.0",
-      "versionDate": "2025-07-31",
-      "size": 155894875,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/Facebook_524.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "localizedDescription": "Injected with Premium"
     },
     {
@@ -498,17 +311,6 @@
       "localizedDescription": "Injected with Premium"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "523.0.0",
-      "versionDate": "2025-07-24",
-      "size": 157052659,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/Facebook_523.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
       "name": "YouTubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -520,17 +322,6 @@
       "localizedDescription": "Injected with Premium"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "522.0.0",
-      "versionDate": "2025-07-17",
-      "size": 156872333,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Facebook_522.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
       "name": "YouTubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -539,17 +330,6 @@
       "size": 95032909,
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/YouTubeMusic_8.28.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "521.0.0",
-      "versionDate": "2025-07-09",
-      "size": 170103765,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Facebook_521.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "localizedDescription": "Injected with Premium"
     },
     {
@@ -594,28 +374,6 @@
       "size": 95476162,
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/YouTubeMusic_8.24.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
-      "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Messenger",
-      "bundleID": "com.facebook.Messenger",
-      "developerName": "",
-      "version": "511.0.0",
-      "versionDate": "2025-06-14",
-      "size": 78385399,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/Messenger_511.0.0_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
-      "localizedDescription": "Injected with Mods"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "517.0.0",
-      "versionDate": "2025-06-13",
-      "size": 165767697,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/Facebook_517.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "localizedDescription": "Injected with Premium"
     },
     {
@@ -696,17 +454,6 @@
       "localizedDescription": "Injected with Premium"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "512.0.0",
-      "versionDate": "2025-05-09",
-      "size": 167707493,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/Facebook_512.0.0_Wolf_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Wolf"
-    },
-    {
       "name": "YouTubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -740,17 +487,6 @@
       "localizedDescription": "Injected with DLTube"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "511.0.0",
-      "versionDate": "2025-04-29",
-      "size": 172064031,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Facebook_511.0.0_Wolf_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Wolf"
-    },
-    {
       "name": "YouTubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -771,17 +507,6 @@
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/YouTubeOLED_20.16.7_Premium_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "localizedDescription": "Injected with Premium"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "507.0.0",
-      "versionDate": "2025-04-07",
-      "size": 168682189,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/Facebook_507.0.0_Wolf_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Wolf"
     },
     {
       "name": "YoutubeMusic",
@@ -894,17 +619,6 @@
       "localizedDescription": "Injected with OLED"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "498.0.0",
-      "versionDate": "2025-02-02",
-      "size": 162989811,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Facebook_498.0.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Wolf 2.1"
-    },
-    {
       "name": "YoutubeMusic",
       "bundleID": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -960,17 +674,6 @@
       "localizedDescription": "Injected with YTMusicUltimate"
     },
     {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "493.0.0",
-      "versionDate": "2024-12-13",
-      "size": 162911886,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2024/Facebook_493.0.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Wolf 2.1"
-    },
-    {
       "name": "YoutubeOled",
       "bundleID": "com.google.ios.youtube",
       "developerName": "",
@@ -980,28 +683,6 @@
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2024/YoutubeOled_19.49.5_OLED_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "localizedDescription": "Injected with OLED"
-    },
-    {
-      "name": "Messenger",
-      "bundleID": "com.facebook.Messenger",
-      "developerName": "",
-      "version": "486.0.0",
-      "versionDate": "2024-12-08",
-      "size": 67797125,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Messenger_486.0.0_SNMessenger_1.0.1_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
-      "localizedDescription": "Injected with SNMessenger 1.0.1"
-    },
-    {
-      "name": "Facebook",
-      "bundleID": "com.facebook.Facebook",
-      "developerName": "",
-      "version": "492.0.0",
-      "versionDate": "2024-12-05",
-      "size": 162778384,
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Facebook_492.0.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
-      "localizedDescription": "Injected with Wolf 2.1"
     },
     {
       "name": "Youtube",
