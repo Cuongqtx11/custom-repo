@@ -1,0 +1,204 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.13.0",
+      "versionDate": "2025-10-13",
+      "size": 308184655,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-10-2025/MergeCooking_1.13.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.11.0",
+      "versionDate": "2025-09-11",
+      "size": 293000787,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2025/MergeCooking_1.11.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.9.0",
+      "versionDate": "2025-08-27",
+      "size": 289177191,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2025/MergeCooking_1.9.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.7.0",
+      "versionDate": "2025-08-14",
+      "size": 290198480,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/MergeCooking_1.7.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "MergeClash",
+      "bundleID": "merge.clash",
+      "developerName": "",
+      "version": "13.2",
+      "versionDate": "2025-07-06",
+      "size": 115978888,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/MergeClash_13.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/merge.clash.png",
+      "localizedDescription": "Injected with VIP"
+    },
+    {
+      "name": "MergeDragons",
+      "bundleID": "com.gramgames.mergedragons",
+      "developerName": "",
+      "version": "12.7.3",
+      "versionDate": "2025-07-06",
+      "size": 232635804,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/MergeDragons_12.7.3_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gramgames.mergedragons.png",
+      "localizedDescription": "Injected with Unlocked All Functions"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.1.96",
+      "versionDate": "2025-07-05",
+      "size": 277865504,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/MergeCooking_1.1.96_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with VIP"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.1.98",
+      "versionDate": "2025-07-05",
+      "size": 273527188,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/MergeCooking_1.1.98_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with VIP"
+    },
+    {
+      "name": "MergeDragons",
+      "bundleID": "com.gramgames.mergedragons",
+      "developerName": "",
+      "version": "12.5.3",
+      "versionDate": "2025-05-28",
+      "size": 224323804,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/MergeDragons_12.5.3_FreezeCurrencies_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gramgames.mergedragons.png",
+      "localizedDescription": "Injected with FreezeCurrencies"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.1.92",
+      "versionDate": "2025-05-28",
+      "size": 247416466,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/MergeCooking_1.1.92_FreezeEnergy_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with FreezeEnergy"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.1.91",
+      "versionDate": "2025-05-14",
+      "size": 244391788,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/MergeCooking_1.1.91_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.1.81",
+      "versionDate": "2025-03-07",
+      "size": 282799041,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/MergeCooking_1.1.81_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.1.77",
+      "versionDate": "2025-02-12",
+      "size": 274307567,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/MergeCooking_1.1.77_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.1.75",
+      "versionDate": "2025-01-25",
+      "size": 273202901,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/MergeCooking_1.1.75_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.1.73",
+      "versionDate": "2025-01-18",
+      "size": 270832590,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/MergeCooking_1.1.73_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "MergeCooking",
+      "bundleID": "com.merge.cooking.theme.restaurant.food",
+      "developerName": "",
+      "version": "1.1.68",
+      "versionDate": "2024-12-13",
+      "size": 253282572,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2024/MergeCooking_1.1.68_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "Mergedragons.",
+      "bundleID": "com.gramgames.mergedragons",
+      "developerName": "",
+      "version": "11.13.2",
+      "versionDate": "2024-12-08",
+      "size": 220408778,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Mergedragons._11.13.2_Unlimited_Currencies_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gramgames.mergedragons.png",
+      "localizedDescription": "Injected with Unlimited Currencies"
+    },
+    {
+      "name": "MergeMayor",
+      "bundleID": "games.starberry.idle-village",
+      "developerName": "",
+      "version": "4.15.533",
+      "versionDate": "2024-12-07",
+      "size": 234087524,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/MergeMayor_4.15.533_FreezeEnergy_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.starberry.idle-village.png",
+      "localizedDescription": "Injected with FreezeEnergy"
+    }
+  ]
+}
