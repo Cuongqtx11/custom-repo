@@ -1,0 +1,72 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "SubwaySurf",
+      "bundleID": "com.kiloo.subwaysurfers",
+      "developerName": "",
+      "version": "3.51.0",
+      "versionDate": "2025-08-25",
+      "size": 166626765,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/SubwaySurf_3.51.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+      "localizedDescription": "Injected with Mods"
+    },
+    {
+      "name": "SubwaySurf",
+      "bundleID": "com.kiloo.subwaysurfers",
+      "developerName": "",
+      "version": "3.48.10",
+      "versionDate": "2025-07-04",
+      "size": 143885795,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/SubwaySurf_3.48.10_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+      "localizedDescription": "Injected with VIP"
+    },
+    {
+      "name": "SubwaySurf",
+      "bundleID": "com.kiloo.subwaysurfers",
+      "developerName": "",
+      "version": "3.47.1",
+      "versionDate": "2025-06-17",
+      "size": 165141066,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/SubwaySurf_3.47.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+      "localizedDescription": "Injected with Mods"
+    },
+    {
+      "name": "SubwaySurf",
+      "bundleID": "com.kiloo.subwaysurfers",
+      "developerName": "",
+      "version": "3.47.0",
+      "versionDate": "2025-06-04",
+      "size": 148752706,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/SubwaySurf_3.47.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+      "localizedDescription": "Injected with Unlocked All Functions"
+    },
+    {
+      "name": "SubwaySurf",
+      "bundleID": "com.kiloo.subwaysurfers",
+      "developerName": "",
+      "version": "3.46.10",
+      "versionDate": "2025-05-27",
+      "size": 164358151,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/SubwaySurf_3.46.10_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+      "localizedDescription": "Injected with Mods"
+    },
+    {
+      "name": "SubwaySurf",
+      "bundleID": "com.kiloo.subwaysurfers",
+      "developerName": "",
+      "version": "3.39.0",
+      "versionDate": "2024-12-11",
+      "size": 173988373,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2024/SubwaySurf_3.39.0_FreeStore_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+      "localizedDescription": "Injected with FreeStore"
+    }
+  ]
+}
