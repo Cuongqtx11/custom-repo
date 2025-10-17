@@ -1,0 +1,72 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "HillClimb",
+      "bundleID": "com.fingersoft.hillclimbracing",
+      "developerName": "",
+      "version": "1.67.0",
+      "versionDate": "2025-09-30",
+      "size": 115467553,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/HillClimb_1.67.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "HillClimb2",
+      "bundleID": "com.fingersoft.hillclimbracing2",
+      "developerName": "",
+      "version": "1.66.2",
+      "versionDate": "2025-06-21",
+      "size": 196538322,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/HillClimb2_1.66.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing2.png",
+      "localizedDescription": "Injected with Mods"
+    },
+    {
+      "name": "HillClimb",
+      "bundleID": "com.fingersoft.hillclimbracing",
+      "developerName": "",
+      "version": "1.66.0",
+      "versionDate": "2025-06-19",
+      "size": 108953947,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2025/HillClimb_1.66.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "HillClimb2",
+      "bundleID": "com.fingersoft.hillclimbracing2",
+      "developerName": "",
+      "version": "1.66.0",
+      "versionDate": "2025-06-13",
+      "size": 196555132,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/HillClimb2_1.66.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing2.png",
+      "localizedDescription": "Injected with Mods"
+    },
+    {
+      "name": "HillClimb",
+      "bundleID": "com.fingersoft.hillclimbracing",
+      "developerName": "",
+      "version": "1.64.0",
+      "versionDate": "2024-12-24",
+      "size": 111581580,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2024/HillClimb_1.64.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
+      "localizedDescription": "Injected with IAP"
+    },
+    {
+      "name": "HillClimb",
+      "bundleID": "com.fingersoft.hillclimbracing",
+      "developerName": "",
+      "version": "1.63.1",
+      "versionDate": "2024-12-13",
+      "size": 110223946,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2024/HillClimb_1.63.1_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
+      "localizedDescription": "Injected with IAP"
+    }
+  ]
+}
