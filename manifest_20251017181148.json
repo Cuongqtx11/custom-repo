@@ -1,0 +1,193 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.13",
+      "versionDate": "2025-10-15",
+      "size": 132116783,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-10-2025/LingoDeer_3.0.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.12",
+      "versionDate": "2025-09-23",
+      "size": 138426479,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2025/LingoDeer_3.0.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.11",
+      "versionDate": "2025-08-24",
+      "size": 138336310,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/LingoDeer_3.0.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.10",
+      "versionDate": "2025-08-22",
+      "size": 137992022,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2025/LingoDeer_3.0.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.9",
+      "versionDate": "2025-08-13",
+      "size": 132931462,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2025/LingoDeer_3.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.8",
+      "versionDate": "2025-08-11",
+      "size": 132995988,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/LingoDeer_3.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.7",
+      "versionDate": "2025-08-08",
+      "size": 131673099,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/LingoDeer_3.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.6",
+      "versionDate": "2025-08-05",
+      "size": 131669568,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/LingoDeer_3.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.5",
+      "versionDate": "2025-08-04",
+      "size": 132712175,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/LingoDeer_3.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.4",
+      "versionDate": "2025-07-25",
+      "size": 132712388,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/LingoDeer_3.0.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.3",
+      "versionDate": "2025-07-23",
+      "size": 132717805,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/LingoDeer_3.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0.2",
+      "versionDate": "2025-07-22",
+      "size": 132720241,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/LingoDeer_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "3.0",
+      "versionDate": "2025-07-11",
+      "size": 131594021,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/LingoDeer_3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "2.10.0",
+      "versionDate": "2025-07-08",
+      "size": 132629729,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/LingoDeer_2.10.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "LingoDeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "2.9.43",
+      "versionDate": "2025-06-09",
+      "size": 139984439,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/LingoDeer_2.9.43_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Lingodeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "2.9.41",
+      "versionDate": "2025-03-11",
+      "size": 139048099,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-03-2025/Lingodeer_2.9.41_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Lingodeer",
+      "bundleID": "com.lingodeer",
+      "developerName": "",
+      "version": "2.9.37",
+      "versionDate": "2025-02-08",
+      "size": 138809386,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Lingodeer_2.9.37_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+      "localizedDescription": "Injected with Premium"
+    }
+  ]
+}
