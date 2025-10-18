@@ -1,0 +1,61 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "B612",
+      "bundleID": "com.linecorp.b612",
+      "developerName": "",
+      "version": "14.5.10",
+      "versionDate": "2025-10-15",
+      "size": 139938441,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-10-2025/B612_14.5.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+      "localizedDescription": "Injected with Subscription Unlocked"
+    },
+    {
+      "name": "B612",
+      "bundleID": "com.linecorp.b612",
+      "developerName": "",
+      "version": "14.4.10",
+      "versionDate": "2025-09-03",
+      "size": 138805125,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2025/B612_14.4.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+      "localizedDescription": "Injected with Subscription Unlocked"
+    },
+    {
+      "name": "B612",
+      "bundleID": "com.linecorp.b612",
+      "developerName": "",
+      "version": "14.3.7",
+      "versionDate": "2025-08-01",
+      "size": 132121404,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/B612_14.3.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+      "localizedDescription": "Injected with Subscription Unlocked"
+    },
+    {
+      "name": "B612",
+      "bundleID": "com.linecorp.b612",
+      "developerName": "",
+      "version": "14.3.6",
+      "versionDate": "2025-07-25",
+      "size": 130478354,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/B612_14.3.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+      "localizedDescription": "Injected with Subscription Unlocked"
+    },
+    {
+      "name": "B612",
+      "bundleID": "com.linecorp.b612",
+      "developerName": "",
+      "version": "13.5.10",
+      "versionDate": "2024-12-05",
+      "size": 127816070,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/B612_13.5.10_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+      "localizedDescription": ""
+    }
+  ]
+}
