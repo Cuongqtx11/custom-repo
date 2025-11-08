@@ -1,0 +1,259 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "42.4.0",
+      "versionDate": "2025-11-04",
+      "size": 391561827,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/TikTok_42.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "42.3.0",
+      "versionDate": "2025-11-03",
+      "size": 389755047,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2025/TikTok_42.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "42.2.0",
+      "versionDate": "2025-10-24",
+      "size": 372110996,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/TikTok_42.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "41.9.0",
+      "versionDate": "2025-10-09",
+      "size": 370015382,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2025/TikTok_41.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "41.8.0",
+      "versionDate": "2025-09-24",
+      "size": 366774765,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/TikTok_41.8.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "41.6.0",
+      "versionDate": "2025-09-10",
+      "size": 360096567,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2025/TikTok_41.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "41.5.0",
+      "versionDate": "2025-09-05",
+      "size": 371853007,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/TikTok_41.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "41.4.0",
+      "versionDate": "2025-08-30",
+      "size": 371129454,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-08-2025/TikTok_41.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "41.3.0",
+      "versionDate": "2025-08-21",
+      "size": 369054094,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2025/TikTok_41.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "41.2.0",
+      "versionDate": "2025-08-16",
+      "size": 366883666,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2025/TikTok_41.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "BHTikTokPlus",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "41.1.0",
+      "versionDate": "2025-08-11",
+      "size": 359458711,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/BHTikTokPlus_41.1.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "BHTikTokPlus",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "40.9.0",
+      "versionDate": "2025-08-06",
+      "size": 349544385,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2025/BHTikTokPlus_40.9.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "BHTikTokPlus",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "40.8.0",
+      "versionDate": "2025-07-16",
+      "size": 453477504,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/BHTikTokPlus_40.8.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "BHTikTokPlus",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "40.7.0",
+      "versionDate": "2025-07-09",
+      "size": 451822888,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/BHTikTokPlus_40.7.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "BHTikTokPlus",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "40.6.0",
+      "versionDate": "2025-07-05",
+      "size": 455684738,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/BHTikTokPlus_40.6.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "BHTikTokPlus",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "39.8.0",
+      "versionDate": "2025-05-30",
+      "size": 349665419,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/BHTikTokPlus_39.8.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with Plus"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "39.7.0",
+      "versionDate": "2025-05-09",
+      "size": 332109394,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/TikTok_39.7.0_BHTikTokPlus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with BHTikTokPlus"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "39.5.0",
+      "versionDate": "2025-04-30",
+      "size": 361788765,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/TikTok_39.5.0_DLTikTok_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with DLTikTok"
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "39.6.0",
+      "versionDate": "2025-04-30",
+      "size": 357033988,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/TikTok_39.6.0_BHTikTokPlus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with BHTikTokPlus"
+    },
+    {
+      "name": "Bhtiktokplus",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "39.3.0",
+      "versionDate": "2025-04-04",
+      "size": 350313183,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/Bhtiktokplus_39.3.0_BHTikTokPlus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with BHTikTokPlus"
+    },
+    {
+      "name": "Tiktok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "39.3.0",
+      "versionDate": "2025-04-04",
+      "size": 349983448,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-04-2025/Tiktok_39.3.0_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": ""
+    },
+    {
+      "name": "TikTok",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "38.4.0",
+      "versionDate": "2025-02-08",
+      "size": 377625876,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/TikTok_38.4.0_BHTikTokPlus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with BHTikTokPlus"
+    },
+    {
+      "name": "Bhtiktokplus",
+      "bundleID": "com.zhiliaoapp.musically",
+      "developerName": "",
+      "version": "37.7.0",
+      "versionDate": "2024-12-11",
+      "size": 351743408,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2024/Bhtiktokplus_37.7.0_BHTikTokPlus_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "localizedDescription": "Injected with BHTikTokPlus"
+    }
+  ]
+}
