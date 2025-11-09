@@ -1,0 +1,127 @@
+{
+  "name": "Repo Unlockipa Mini",
+  "identifier": "custom.repo",
+  "apps": [
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "532.0.0",
+      "versionDate": "2025-11-04",
+      "size": 66637887,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2025/Messenger_532.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "531.0.0",
+      "versionDate": "2025-10-29",
+      "size": 66280658,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/Messenger_531.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "530.0.0",
+      "versionDate": "2025-10-24",
+      "size": 64263434,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Messenger_530.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "529.0.0",
+      "versionDate": "2025-10-15",
+      "size": 64247393,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-10-2025/Messenger_529.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "528.0.0",
+      "versionDate": "2025-10-08",
+      "size": 64040447,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2025/Messenger_528.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "527.0.0",
+      "versionDate": "2025-10-01",
+      "size": 63860554,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/Messenger_527.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "526.0.0",
+      "versionDate": "2025-09-24",
+      "size": 61735202,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Messenger_526.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "524.0.0",
+      "versionDate": "2025-09-12",
+      "size": 62005670,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2025/Messenger_524.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "523.0.0",
+      "versionDate": "2025-09-07",
+      "size": 63284198,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2025/Messenger_523.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Premium"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "511.0.0",
+      "versionDate": "2025-06-14",
+      "size": 78385399,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/Messenger_511.0.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with Mods"
+    },
+    {
+      "name": "Messenger",
+      "bundleID": "com.facebook.Messenger",
+      "developerName": "",
+      "version": "486.0.0",
+      "versionDate": "2024-12-08",
+      "size": 67797125,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Messenger_486.0.0_SNMessenger_1.0.1_%40thisismanpreets_apptesters.org.ipa",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+      "localizedDescription": "Injected with SNMessenger 1.0.1"
+    }
+  ]
+}
